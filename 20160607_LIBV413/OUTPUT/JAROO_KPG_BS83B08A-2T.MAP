@@ -1,46 +1,46 @@
 
 Linker Version 8.7.7.211123
 Input Object File: C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\STARTUP1_L.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\MAIN_PROGRAM_V103.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TIMER.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\CLOCK.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\EX_INT.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\GPIO.OBJ
-Input Object File: c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TOUCH.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\STARTUP1_L.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ
 
 Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB
 Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\v3_tabrd_mrsc.lib
 
 
      Bank    Start     End      Length     Class    AvgIns    Name
-     00h     0000h     0003h    0004h      CODE               PROGRAM_ENTRY (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
-     00h     0004h     0007h    0004h      CODE               @ex_interupt_code (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0000h     0003h    0004h      CODE               PROGRAM_ENTRY (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     0004h     0007h    0004h      CODE               @ex_interupt_code (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
      00h     0008h     0008h    0001h      CODE               TOUCH_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
      00h     0009h     0009h    0001h      CODE               LIBRARY_VERSION (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
-     00h     000ah     000bh    0002h      CODE               _USER_PROGRAM_INITIAL (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     000ch     000fh    0004h      CODE               @timer_code (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     0010h     0012h    0003h      CODE               _USER_PROGRAM (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     000ah     000bh    0002h      CODE               _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     000ch     000fh    0004h      CODE               @timer_code (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0010h     0012h    0003h      CODE               _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
      00h     0014h     0017h    0004h      CODE               TIME_BASE_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
      00h     0018h     049ch    0485h      CODE               TKS_LIBRARY_CODE (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
-     00h     049dh     04e4h    0048h      CODE               MAIN_PROGRAM (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
-     00h     04e5h     04e9h    0005h      CODE               @ROMDATA_BASE (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     04eah     053eh    0055h      CODE               _timer (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     053fh     0545h    0007h      CODE               _ex_interupt (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     0546h     054eh    0009h      CODE               _ini_main (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     054fh     0554h    0006h      CODE               _timer_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TIMER.OBJ)
-     00h     0555h     0557h    0003h      CODE               _timer_interupt_enable (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TIMER.OBJ)
-     00h     0558h     055fh    0008h      CODE               _clock_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\CLOCK.OBJ)
-     00h     0560h     0563h    0004h      CODE               _EX_INT_init (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\EX_INT.OBJ)
-     00h     0564h     056bh    0008h      CODE               _GPIO_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\GPIO.OBJ)
-     00h     056ch     05bfh    0054h      CODE               _touch_read (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TOUCH.OBJ)
-     00h     05c0h     0610h    0051h      CODE               _touch_led_manage (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TOUCH.OBJ)
-     00h     0611h     0615h    0005h      CODE               _CROM2PROM (CROM2PROM)
+     00h     049dh     04e4h    0048h      CODE               MAIN_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     04e5h     04e9h    0005h      CODE               @ROMDATA_BASE (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     04eah     053fh    0056h      CODE               _timer (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0540h     0546h    0007h      CODE               _ex_interupt (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0547h     0552h    000ch      CODE               _ini_main (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0553h     0558h    0006h      CODE               _timer_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     0559h     055bh    0003h      CODE               _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     055ch     0563h    0008h      CODE               _clock_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
+     00h     0564h     0567h    0004h      CODE               _EX_INT_init (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ)
+     00h     0568h     056fh    0008h      CODE               _GPIO_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ)
+     00h     0570h     05c3h    0054h      CODE               _touch_read (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
+     00h     05c4h     0614h    0051h      CODE               _touch_led_manage (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
+     00h     0615h     0619h    0005h      CODE               _CROM2PROM (CROM2PROM)
      00h     0060h     00dah    007bh      DATA     0.1056    TKS_LIBRARY_DATA0 (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
-     00h     00dbh     00ddh    0003h      DATA     2         @HCCINIT (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00deh     00e4h    0007h      DATA     2.5714    @HCCINIT0 (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00e5h     00e6h    0002h      DATA     3         MAIN_DATA (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     00dbh     00ddh    0003h      DATA     2         @HCCINIT (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00deh     00e4h    0007h      DATA     2.8571    @HCCINIT0 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00e5h     00e6h    0002h      DATA     3         MAIN_DATA (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
      00h     00e7h     00e7h    0001h      DATA     20        @data_ra (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
      00h     00e8h     00e8h    0001h      DATA     3         @data_rb (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
      00h     00e9h     00e9h    0001h      DATA     3         @data_rc (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
@@ -57,25 +57,25 @@ Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x
      Local Sections
 
      Bank    Start     End      Length     Class    AvgIns    Name
-     00h     00f3h     00f3h    0000h      LOCAL    0         @dummy12 (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _timer (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         @dummy4 (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _ex_interupt (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f9h     00f9h    0000h      LOCAL    0         _USER_PROGRAM (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f8h     00f8h    0001h      LOCAL    6         _touch_led_manage (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TOUCH.OBJ)
-     00h     00f3h     00f7h    0005h      LOCAL    4.2       _touch_read (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TOUCH.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         @dummy12 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _timer (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         @dummy4 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _ex_interupt (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f9h     00f9h    0000h      LOCAL    0         _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f8h     00f8h    0001h      LOCAL    6         _touch_led_manage (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
+     00h     00f3h     00f7h    0005h      LOCAL    4.2       _touch_read (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
      00h     00f3h     00f3h    0000h      LOCAL    0         _Crom2Prom (CROM2PROM)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _USER_PROGRAM_INITIAL (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _ini_main (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\USER_PROGRAM.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _timer_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TIMER.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _timer_interupt_enable (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\TIMER.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _EX_INT_init (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\EX_INT.OBJ)
-     00h     00f3h     00f3h    0000h      LOCAL    0         _GPIO_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\GPIO.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _ini_main (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _timer_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _EX_INT_init (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ)
+     00h     00f3h     00f3h    0000h      LOCAL    0         _GPIO_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ)
 
      Indepentent Local Sections
 
      Bank    Start     End      Length     Class    AvgIns    Name
-     00h     00f3h     00f3h    0000h      ILOCAL   0         _clock_ini (c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\CLOCK.OBJ)
+     00h     00f3h     00f3h    0000h      ILOCAL   0         _clock_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
 
      Public Symbols Information
      Address            Public by Name
@@ -83,10 +83,10 @@ Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x
      0018h              _BS83B08A_LIBV413
      008ch              _BS83B08A_LIBV413_INITIAL
      0114h              _CHECK_KEY_WAKEUP
-     0612h              _Crom2Prom
-     0611h              _Crom2PromNext
+     0616h              _Crom2Prom
+     0615h              _Crom2PromNext
      006bh              _DATA_BUF
-     0560h              _EX_INT_init
+     0564h              _EX_INT_init
      0082h[0]           _FORCE_CALIBRATEF
      0485h              _GET_ENV_VALUE
      047dh              _GET_KEY_AMOUNT
@@ -95,7 +95,7 @@ Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x
      0482h              _GET_RCC_VALUE
      0488h              _GET_REF_VALUE
      0060h              _GLOBE_VARIES
-     0564h              _GPIO_ini
+     0568h              _GPIO_ini
      0077h              _KEY_DATA
      0076h              _KEY_IO_SEL
      009bh              _KEY_REF
@@ -114,18 +114,18 @@ Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x
      0075h              _TKS_TIME_BASE
      0010h              _USER_PROGRAM
      000ah              _USER_PROGRAM_INITIAL
-     0558h              _clock_ini
-     053fh              _ex_interupt
+     055ch              _clock_ini
+     0540h              _ex_interupt
      00ddh              _i
-     0546h              _ini_main
+     0547h              _ini_main
      00e1h              _jaroo
      04eah              _timer
-     054fh              _timer_ini
-     0555h              _timer_interupt_enable
+     0553h              _timer_ini
+     0559h              _timer_interupt_enable
      00dbh              _timer_load
      00deh              _touch
-     05c0h              _touch_led_manage
-     056ch              _touch_read
+     05c4h              _touch_led_manage
+     0570h              _touch_read
      00f3h              _touch_read_2
      00f1h              r104
      00eah              r10c
@@ -190,22 +190,22 @@ Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x
      04cch              _LOAD_HXT_REFERENCE
      04cch              _LOAD_TKS_GLOBE_VARIES
      04eah              _timer
-     053fh              _ex_interupt
-     0546h              _ini_main
-     054fh              _timer_ini
-     0555h              _timer_interupt_enable
-     0558h              _clock_ini
-     0560h              _EX_INT_init
-     0564h              _GPIO_ini
-     056ch              _touch_read
-     05c0h              _touch_led_manage
-     0611h              _Crom2PromNext
-     0612h              _Crom2Prom
+     0540h              _ex_interupt
+     0547h              _ini_main
+     0553h              _timer_ini
+     0559h              _timer_interupt_enable
+     055ch              _clock_ini
+     0564h              _EX_INT_init
+     0568h              _GPIO_ini
+     0570h              _touch_read
+     05c4h              _touch_led_manage
+     0615h              _Crom2PromNext
+     0616h              _Crom2Prom
 
 
 ROM Usage Statistics
      Size      Used     Percentage
-     0800h     0615h    76%
+     0800h     0619h    76%
 
 RAM Usage Statistics
     Bank      Size      Used     Percentage
@@ -234,6 +234,6 @@ Call Tree
             _EX_INT_init (1)
             _GPIO_ini (1)
 
-HLINK: Program entry point at section 'PROGRAM_ENTRY' (address 0) of file 'c:\users\barby\desktop\company_work\ronic\jaroo_kpg_bs83b08a_2t\jaroo_kpg_bs83b08a_2t_code\20160607_libv413\OUTPUT\MAIN_PROGRAM_V103.OBJ'
+HLINK: Program entry point at section 'PROGRAM_ENTRY' (address 0) of file 'C:\Users\barby\Desktop\Company_work\Ronic\jaroo_KPG_BS83B08A_2T\jaroo_KPG_BS83B08A_2T_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ'
 
 Total 0 error(s), Total 0 Warning(s)

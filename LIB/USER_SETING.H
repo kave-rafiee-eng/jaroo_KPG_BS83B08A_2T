@@ -10,6 +10,6 @@
 
 #define SOFT_START_TIME 150 //ms
 
-#define START_LEVEL 3
+#define START_LEVEL 2
 
 #endif

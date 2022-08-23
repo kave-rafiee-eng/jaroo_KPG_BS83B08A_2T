@@ -42,10 +42,10 @@ void touch_led_manage(){
 			
 	led1=0; led2=0; led3=0; led4=0; led5=0; 
 	if( jaroo.LEVEL == 0 ){ led1=1; jaroo.POWER=POWER_LEVEL1; }
-	if( jaroo.LEVEL == 1 ){ led2=1; jaroo.POWER=POWER_LEVEL2; }
-	if( jaroo.LEVEL == 2 ){ led3=1; jaroo.POWER=POWER_LEVEL3; }
-	if( jaroo.LEVEL == 3 ){ led4=1; jaroo.POWER=POWER_LEVEL4; }
-	if( jaroo.LEVEL == 4 ){ led5=1; jaroo.POWER=POWER_LEVEL5; }	
+	if( jaroo.LEVEL == 1 ){ led1=1; led2=1; jaroo.POWER=POWER_LEVEL2; }
+	if( jaroo.LEVEL == 2 ){ led1=1; led2=1; led3=1; jaroo.POWER=POWER_LEVEL3; }
+	if( jaroo.LEVEL == 3 ){ led1=1; led2=1; led3=1; led4=1; jaroo.POWER=POWER_LEVEL4; }
+	if( jaroo.LEVEL == 4 ){ led1=1; led2=1; led3=1; led4=1;led5=1; jaroo.POWER=POWER_LEVEL5; }	
 	
 		
 	
